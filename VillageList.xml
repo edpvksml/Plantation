@@ -490,6 +490,9 @@
     <VillageCode Code="519">
       <VillageName>शिंगाडवाडी</VillageName>
     </VillageCode>
+    <VillageCode Code="524">
+      <VillageName>म्हसे (बु)</VillageName>
+    </VillageCode>
   </GatCode>
   <GatCode Code="5">
     <VillageCode Code="40">
@@ -1566,6 +1569,15 @@
     </VillageCode>
     <VillageCode Code="461">
       <VillageName>पिपळगांव</VillageName>
+    </VillageCode>
+    <VillageCode Code="521">
+      <VillageName>वाळकी</VillageName>
+    </VillageCode>
+    <VillageCode Code="522">
+      <VillageName>टाकळी भिमा(राहु)</VillageName>
+    </VillageCode>
+    <VillageCode Code="523">
+      <VillageName>दहिटणे</VillageName>
     </VillageCode>
   </GatCode>
 </VillageList>
