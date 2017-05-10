@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bank>
+  <BankCode Code="2">
+    <BankName>बॅक ऑफ महाराष्ट्र</BankName>
+    <BranchCode Code="94">
+      <BranchName>वडगाव रासाई</BranchName>
+    </BranchCode>
+    <BranchCode Code="119">
+      <BranchName>कोडोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="120">
+      <BranchName>तळेगांव ढमढेरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="121">
+      <BranchName>वारजे</BranchName>
+    </BranchCode>
+    <BranchCode Code="125">
+      <BranchName>पाथर्डी</BranchName>
+    </BranchCode>
+    <BranchCode Code="126">
+      <BranchName>ओतुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="127">
+      <BranchName>वाघोली</BranchName>
+    </BranchCode>
+    <BranchCode Code="128">
+      <BranchName>कोरेगाव भिमा</BranchName>
+    </BranchCode>
+    <BranchCode Code="129">
+      <BranchName>पाबळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="130">
+      <BranchName>रांजणगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="131">
+      <BranchName>आळंदी</BranchName>
+    </BranchCode>
+    <BranchCode Code="132">
+      <BranchName>चाकण</BranchName>
+    </BranchCode>
+    <BranchCode Code="133">
+      <BranchName>नारायणगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="134">
+      <BranchName>शिक्रापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="135">
+      <BranchName>बोंबावडे (कॊ.)</BranchName>
+    </BranchCode>
+    <BranchCode Code="136">
+      <BranchName>शिरूर</BranchName>
+    </BranchCode>
+    <BranchCode Code="137">
+      <BranchName>धामणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="138">
+      <BranchName>जुन्नर</BranchName>
+    </BranchCode>
+    <BranchCode Code="139">
+      <BranchName>मंचर</BranchName>
+    </BranchCode>
+    <BranchCode Code="140">
+      <BranchName>आऴेफ़ाटा - 157</BranchName>
+    </BranchCode>
+    <BranchCode Code="141">
+      <BranchName>वरवंड</BranchName>
+    </BranchCode>
+    <BranchCode Code="142">
+      <BranchName>भुईंज</BranchName>
+    </BranchCode>
+    <BranchCode Code="143">
+      <BranchName>तुडीये (चंद्गड)</BranchName>
+    </BranchCode>
+    <BranchCode Code="144">
+      <BranchName>वडगाव निंबाळकर</BranchName>
+    </BranchCode>
+    <BranchCode Code="145">
+      <BranchName>वडगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="146">
+      <BranchName>टेंभुर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="147">
+      <BranchName>शेणोली (कराड)</BranchName>
+    </BranchCode>
+    <BranchCode Code="148">
+      <BranchName>बावडा</BranchName>
+    </BranchCode>
+    <BranchCode Code="149">
+      <BranchName>रिसोड - वाशिम</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="15">
+    <BankName>पुणे डी सी सी बॅक</BankName>
+    <BranchCode Code="17">
+      <BranchName>सोमवार पेठ  62</BranchName>
+    </BranchCode>
+    <BranchCode Code="18">
+      <BranchName>करंदी     220</BranchName>
+    </BranchCode>
+    <BranchCode Code="19">
+      <BranchName>भोसे    123</BranchName>
+    </BranchCode>
+    <BranchCode Code="20">
+      <BranchName>बहुळ   138</BranchName>
+    </BranchCode>
+    <BranchCode Code="21">
+      <BranchName>शिक्रापुर   221</BranchName>
+    </BranchCode>
+    <BranchCode Code="25">
+      <BranchName>तळेगाव ढमढेरे  18</BranchName>
+    </BranchCode>
+    <BranchCode Code="26">
+      <BranchName>मुखई सोसायटी</BranchName>
+    </BranchCode>
+    <BranchCode Code="27">
+      <BranchName>केंदुर    74</BranchName>
+    </BranchCode>
+    <BranchCode Code="28">
+      <BranchName>निमगाव म्हाळुंगी   211</BranchName>
+    </BranchCode>
+    <BranchCode Code="29">
+      <BranchName>आष्टापुर    244</BranchName>
+    </BranchCode>
+    <BranchCode Code="30">
+      <BranchName>थेऊर    185</BranchName>
+    </BranchCode>
+    <BranchCode Code="31">
+      <BranchName>मरकळ   193</BranchName>
+    </BranchCode>
+    <BranchCode Code="32">
+      <BranchName>मांजरी     207</BranchName>
+    </BranchCode>
+    <BranchCode Code="33">
+      <BranchName>रांजणगाव गणपती    104</BranchName>
+    </BranchCode>
+    <BranchCode Code="34">
+      <BranchName>मुखई   136</BranchName>
+    </BranchCode>
+    <BranchCode Code="35">
+      <BranchName>कोरेगाव भिमा    75</BranchName>
+    </BranchCode>
+    <BranchCode Code="36">
+      <BranchName>न्हावरे (घोडगंगा ) 218</BranchName>
+    </BranchCode>
+    <BranchCode Code="37">
+      <BranchName>लोहगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="38">
+      <BranchName>कान्हुर मेसाई    168</BranchName>
+    </BranchCode>
+    <BranchCode Code="39">
+      <BranchName>धामारी</BranchName>
+    </BranchCode>
+    <BranchCode Code="40">
+      <BranchName>पेरने फाटा   234</BranchName>
+    </BranchCode>
+    <BranchCode Code="41">
+      <BranchName>वाघोली   120</BranchName>
+    </BranchCode>
+    <BranchCode Code="42">
+      <BranchName>शिरूर घोडनदी     7</BranchName>
+    </BranchCode>
+    <BranchCode Code="47">
+      <BranchName>न्हावरा   73</BranchName>
+    </BranchCode>
+    <BranchCode Code="48">
+      <BranchName>निमोणे   147</BranchName>
+    </BranchCode>
+    <BranchCode Code="49">
+      <BranchName>निर्वी</BranchName>
+    </BranchCode>
+    <BranchCode Code="50">
+      <BranchName>इनामगाव   148</BranchName>
+    </BranchCode>
+    <BranchCode Code="51">
+      <BranchName>कवटे  97</BranchName>
+    </BranchCode>
+    <BranchCode Code="52">
+      <BranchName>पाबळ  35</BranchName>
+    </BranchCode>
+    <BranchCode Code="53">
+      <BranchName>उरुळी कांचन  46</BranchName>
+    </BranchCode>
+    <BranchCode Code="54">
+      <BranchName>आळंदी    42</BranchName>
+    </BranchCode>
+    <BranchCode Code="55">
+      <BranchName>राजगुरुनगर  1</BranchName>
+    </BranchCode>
+    <BranchCode Code="56">
+      <BranchName>मांडवगण फराटा    30</BranchName>
+    </BranchCode>
+    <BranchCode Code="57">
+      <BranchName>चंदन नगर  144</BranchName>
+    </BranchCode>
+    <BranchCode Code="58">
+      <BranchName>दावडी   91</BranchName>
+    </BranchCode>
+    <BranchCode Code="59">
+      <BranchName>भोसरी  252</BranchName>
+    </BranchCode>
+    <BranchCode Code="74">
+      <BranchName>वडगाव रासाई   117</BranchName>
+    </BranchCode>
+    <BranchCode Code="76">
+      <BranchName>मुंढ़वा (केशवनगर)   122</BranchName>
+    </BranchCode>
+    <BranchCode Code="77">
+      <BranchName>खडकी  167</BranchName>
+    </BranchCode>
+    <BranchCode Code="78">
+      <BranchName>मोशी 250</BranchName>
+    </BranchCode>
+    <BranchCode Code="80">
+      <BranchName>टिळक रोड ब्रँच   8</BranchName>
+    </BranchCode>
+    <BranchCode Code="81">
+      <BranchName>लोणी काळभॊर   103</BranchName>
+    </BranchCode>
+    <BranchCode Code="82">
+      <BranchName>नवी सांगवी 204</BranchName>
+    </BranchCode>
+    <BranchCode Code="83">
+      <BranchName>पिंपरी वाघिरे 77</BranchName>
+    </BranchCode>
+    <BranchCode Code="84">
+      <BranchName>निरगुडसर  59</BranchName>
+    </BranchCode>
+    <BranchCode Code="85">
+      <BranchName>पारगाव तर्फे अवसरी 229</BranchName>
+    </BranchCode>
+    <BranchCode Code="86">
+      <BranchName>बी. जे. रोड पुणे  208</BranchName>
+    </BranchCode>
+    <BranchCode Code="87">
+      <BranchName>देऊ रोड  20</BranchName>
+    </BranchCode>
+    <BranchCode Code="88">
+      <BranchName>पारगाव सालू-मालू  92</BranchName>
+    </BranchCode>
+    <BranchCode Code="90">
+      <BranchName>रांजणगाव सांडस  183</BranchName>
+    </BranchCode>
+    <BranchCode Code="91">
+      <BranchName>बिबेवाडी शाखा पुणे  86</BranchName>
+    </BranchCode>
+    <BranchCode Code="92">
+      <BranchName>जिल्हा परिषद  29</BranchName>
+    </BranchCode>
+    <BranchCode Code="93">
+      <BranchName>टाकळी हाजी</BranchName>
+    </BranchCode>
+    <BranchCode Code="95">
+      <BranchName>लोणी भापकर   132</BranchName>
+    </BranchCode>
+    <BranchCode Code="96">
+      <BranchName>धनकवडी   176</BranchName>
+    </BranchCode>
+    <BranchCode Code="97">
+      <BranchName>हडपसर   21</BranchName>
+    </BranchCode>
+    <BranchCode Code="98">
+      <BranchName>कोथरुड   87</BranchName>
+    </BranchCode>
+    <BranchCode Code="99">
+      <BranchName>वाकड  127</BranchName>
+    </BranchCode>
+    <BranchCode Code="101">
+      <BranchName>जांबुत  223</BranchName>
+    </BranchCode>
+    <BranchCode Code="102">
+      <BranchName>चाकण   19</BranchName>
+    </BranchCode>
+    <BranchCode Code="103">
+      <BranchName>कानगांव 186</BranchName>
+    </BranchCode>
+    <BranchCode Code="104">
+      <BranchName>पारगांव शिंगवे 329</BranchName>
+    </BranchCode>
+    <BranchCode Code="106">
+      <BranchName>कात्रज   203</BranchName>
+    </BranchCode>
+    <BranchCode Code="111">
+      <BranchName>सणसवाडी  254</BranchName>
+    </BranchCode>
+    <BranchCode Code="112">
+      <BranchName>कारेगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="113">
+      <BranchName>कडूस  51</BranchName>
+    </BranchCode>
+    <BranchCode Code="114">
+      <BranchName>खेड  1</BranchName>
+    </BranchCode>
+    <BranchCode Code="115">
+      <BranchName>कुरकंडी  195</BranchName>
+    </BranchCode>
+    <BranchCode Code="116">
+      <BranchName>राहु  52</BranchName>
+    </BranchCode>
+    <BranchCode Code="150">
+      <BranchName>मलठण  230</BranchName>
+    </BranchCode>
+    <BranchCode Code="151">
+      <BranchName>कासारसाई</BranchName>
+    </BranchCode>
+    <BranchCode Code="153">
+      <BranchName>मलठण  230</BranchName>
+    </BranchCode>
+    <BranchCode Code="157">
+      <BranchName>सहकारनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="158">
+      <BranchName>शाहु कॉलेज (सारंग) 202</BranchName>
+    </BranchCode>
+    <BranchCode Code="159">
+      <BranchName>औंध</BranchName>
+    </BranchCode>
+    <BranchCode Code="160">
+      <BranchName>तांदळी  151</BranchName>
+    </BranchCode>
+    <BranchCode Code="161">
+      <BranchName>निगडी  177</BranchName>
+    </BranchCode>
+    <BranchCode Code="162">
+      <BranchName>पर्वती सिहगड रोड  157</BranchName>
+    </BranchCode>
+    <BranchCode Code="164">
+      <BranchName>वारजे माळवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="165">
+      <BranchName>दहिटणे 197</BranchName>
+    </BranchCode>
+    <BranchCode Code="167">
+      <BranchName>च-होली बुद्रुक 166</BranchName>
+    </BranchCode>
+    <BranchCode Code="168">
+      <BranchName>यवत 55</BranchName>
+    </BranchCode>
+    <BranchCode Code="169">
+      <BranchName>कडेठाण  225</BranchName>
+    </BranchCode>
+    <BranchCode Code="170">
+      <BranchName>खामगांव 112</BranchName>
+    </BranchCode>
+    <BranchCode Code="171">
+      <BranchName>येरवडा 102</BranchName>
+    </BranchCode>
+    <BranchCode Code="172">
+      <BranchName>पारगाव ( मंगरुळ ) 216</BranchName>
+    </BranchCode>
+    <BranchCode Code="173">
+      <BranchName>बेल्हे</BranchName>
+    </BranchCode>
+    <BranchCode Code="174">
+      <BranchName>दहिटणे 197</BranchName>
+    </BranchCode>
+    <BranchCode Code="175">
+      <BranchName>पिपळगांव 159</BranchName>
+    </BranchCode>
+    <BranchCode Code="176">
+      <BranchName>केडगाव  22</BranchName>
+    </BranchCode>
+    <BranchCode Code="177">
+      <BranchName>नारायणगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="180">
+      <BranchName>वाळकेी 231</BranchName>
+    </BranchCode>
+    <BranchCode Code="181">
+      <BranchName>वडगाव बांडे  240</BranchName>
+    </BranchCode>
+    <BranchCode Code="182">
+      <BranchName>थेरगांव</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="24">
+    <BankName>आय.डी.बी.आय. बँक</BankName>
+    <BranchCode Code="79">
+      <BranchName>तळेगाव  ढमढेरे</BranchName>
+    </BranchCode>
+    <BranchCode Code="179">
+      <BranchName>विठ्ठलवाडी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="43">
+    <BankName>अनपेड बँक</BankName>
+    <BranchCode Code="44">
+      <BranchName>अनपेड शाखा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="45">
+    <BankName>घोडगंगा स.सा.का. लि. न्हावर</BankName>
+    <BranchCode Code="46">
+      <BranchName>न्हावरा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="117">
+    <BankName>स्टेट बँक ऑफ इंडीया</BankName>
+    <BranchCode Code="118">
+      <BranchName>चाकण  19</BranchName>
+    </BranchCode>
+  </BankCode>
+</Bank>
