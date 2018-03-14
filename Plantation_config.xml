@@ -1,14 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <User>
-  <UserCode Code="862738031738893">
-    <UserName>---</UserName>
-    <Range>1</Range>
-    <FarmerList>https://raw.githubusercontent.com/edpvksml/Plantation/master/FarmerList.xml</FarmerList>
-    <GatList>https://raw.githubusercontent.com/edpvksml/Plantation/master/GatList.xml</GatList>
-    <VillageList>https://raw.githubusercontent.com/edpvksml/Plantation/master/VillageList.xml</VillageList>
-    <VerificationData>https://raw.githubusercontent.com/edpvksml/Plantation/master/861101035061732_VD.xml</VerificationData>
-    <UCode>63</UCode>
-  </UserCode>
   <UserCode Code="861101035061732">
     <UserName>---</UserName>
     <Range>1</Range>
@@ -62,5 +53,14 @@
     <VillageList>https://raw.githubusercontent.com/edpvksml/Plantation/master/VillageList.xml</VillageList>
     <VerificationData>https://raw.githubusercontent.com/edpvksml/Plantation/master/359475073011240_VD.xml</VerificationData>
     <UCode>38</UCode>
+  </UserCode>
+  <UserCode Code="359475073032030">
+    <UserName>---</UserName>
+    <Range>1</Range>
+    <FarmerList>https://raw.githubusercontent.com/edpvksml/Plantation/master/FarmerList.xml</FarmerList>
+    <GatList>https://raw.githubusercontent.com/edpvksml/Plantation/master/GatList.xml</GatList>
+    <VillageList>https://raw.githubusercontent.com/edpvksml/Plantation/master/VillageList.xml</VillageList>
+    <VerificationData>https://raw.githubusercontent.com/edpvksml/Plantation/master/359475073032030_VD.xml</VerificationData>
+    <UCode>36</UCode>
   </UserCode>
 </User>
