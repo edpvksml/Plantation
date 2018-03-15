@@ -18,6 +18,11 @@
     <password>1234</password>
     <level>1</level>
   </loginid>
+  <loginid id="40">
+    <username>-</username>
+    <password>40</password>
+    <level>3</level>
+  </loginid>
   <loginid id="26">
     <username>-</username>
     <password>26</password>
@@ -47,10 +52,5 @@
     <username>-</username>
     <password>48</password>
     <level>3</level>
-  </loginid>
-  <loginid id="40">
-    <username>-</username>
-    <password>40</password>
-    <level>1</level>
   </loginid>
 </users>
