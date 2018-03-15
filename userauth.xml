@@ -48,4 +48,9 @@
     <password>48</password>
     <level>3</level>
   </loginid>
+  <loginid id="40">
+    <username>-</username>
+    <password>40</password>
+    <level>3</level>
+  </loginid>
 </users>
