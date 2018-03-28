@@ -5,16 +5,6 @@
     <password>41</password>
     <level>3</level>
   </loginid>
-  <loginid id="63">
-    <username>-</username>
-    <password>63</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="65">
-    <username>-</username>
-    <password>1234</password>
-    <level>1</level>
-  </loginid>
   <loginid id="40">
     <username>-</username>
     <password>40</password>
@@ -25,14 +15,9 @@
     <password>46</password>
     <level>3</level>
   </loginid>
-  <loginid id="26">
+  <loginid id="65">
     <username>-</username>
-    <password>26</password>
-    <level>1</level>
-  </loginid>
-  <loginid id="15">
-    <username>-</username>
-    <password>15</password>
+    <password>65</password>
     <level>3</level>
   </loginid>
   <loginid id="38">
