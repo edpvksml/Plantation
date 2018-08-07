@@ -5,6 +5,11 @@
     <password>41</password>
     <level>3</level>
   </loginid>
+  <loginid id="60">
+    <username>-</username>
+    <password>60</password>
+    <level>1</level>
+  </loginid>
   <loginid id="54">
     <username>-</username>
     <password>54</password>
