@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <users>
-  <loginid id="41">
+  <loginid id="24">
     <username>-</username>
-    <password>41</password>
+    <password>24</password>
     <level>3</level>
   </loginid>
-  <loginid id="60">
+  <loginid id="65">
     <username>-</username>
-    <password>60</password>
-    <level>1</level>
+    <password>65</password>
+    <level>3</level>
   </loginid>
   <loginid id="54">
     <username>-</username>
@@ -25,9 +25,9 @@
     <password>46</password>
     <level>3</level>
   </loginid>
-  <loginid id="47">
+  <loginid id="777">
     <username>-</username>
-    <password>47</password>
+    <password>777</password>
     <level>3</level>
   </loginid>
   <loginid id="38">
