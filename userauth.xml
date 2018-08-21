@@ -1,5 +1,85 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <users>
+  <loginid id="67">
+    <username>-</username>
+    <password>67</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="43">
+    <username>-</username>
+    <password>43</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="35">
+    <username>-</username>
+    <password>35</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="68">
+    <username>-</username>
+    <password>68</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="56">
+    <username>-</username>
+    <password>56</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="9">
+    <username>-</username>
+    <password>9</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="62">
+    <username>-</username>
+    <password>62</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="77">
+    <username>-</username>
+    <password>77</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="63">
+    <username>-</username>
+    <password>63</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="69">
+    <username>-</username>
+    <password>69</password>
+    <level>2</level>
+  </loginid>
+  <loginid id="51">
+    <username>-</username>
+    <password>51</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="50">
+    <username>-</username>
+    <password>50</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="29">
+    <username>-</username>
+    <password>29</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="32">
+    <username>-</username>
+    <password>32</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="70">
+    <username>-</username>
+    <password>70</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="6">
+    <username>-</username>
+    <password>6</password>
+    <level>3</level>
+  </loginid>
   <loginid id="24">
     <username>-</username>
     <password>24</password>
