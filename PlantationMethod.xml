@@ -1,9 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PlantationMethod>
-  <MethodCode Code="2">
+  <MethodCode Code="1">
     <Method>पारंपारिक पद्धत</Method>
   </MethodCode>
-  <MethodCode Code="1">
+  <MethodCode Code="4">
     <Method>पट्टा पद्धत</Method>
+  </MethodCode>
+ <MethodCode Code="3">
+    <Method>सोडवळ</Method>
+  </MethodCode>
+ <MethodCode Code="2">
+    <Method>जोडवळ</Method>
+  </MethodCode>
+<MethodCode Code="5">
+    <Method>सरी</Method>
   </MethodCode>
 </PlantationMethod>

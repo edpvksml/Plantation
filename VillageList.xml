@@ -185,9 +185,6 @@
     <VillageCode Code="229">
       <VillageName>वाडा पुर्नवसन</VillageName>
     </VillageCode>
-    <VillageCode Code="230">
-      <VillageName>चव्हाणवाडी (करडे)</VillageName>
-    </VillageCode>
     <VillageCode Code="231">
       <VillageName>दौडकरवाडी</VillageName>
     </VillageCode>
@@ -286,6 +283,9 @@
     </VillageCode>
     <VillageCode Code="333">
       <VillageName>राजुरी</VillageName>
+    </VillageCode>
+    <VillageCode Code="335">
+      <VillageName>च-होली खुर्द</VillageName>
     </VillageCode>
     <VillageCode Code="340">
       <VillageName>शिंदवणे</VillageName>
@@ -525,6 +525,9 @@
     <VillageCode Code="102">
       <VillageName>आमदाबाद</VillageName>
     </VillageCode>
+    <VillageCode Code="103">
+      <VillageName>कवठे यमाई</VillageName>
+    </VillageCode>
     <VillageCode Code="104">
       <VillageName>काठापूर खुर्द</VillageName>
     </VillageCode>
@@ -645,6 +648,9 @@
     <VillageCode Code="228">
       <VillageName>मलठण</VillageName>
     </VillageCode>
+    <VillageCode Code="230">
+      <VillageName>चव्हाणवाडी (करडे)</VillageName>
+    </VillageCode>
     <VillageCode Code="232">
       <VillageName>आंधळगाव</VillageName>
     </VillageCode>
@@ -707,9 +713,6 @@
     </VillageCode>
     <VillageCode Code="386">
       <VillageName>न्हावरे</VillageName>
-    </VillageCode>
-    <VillageCode Code="393">
-      <VillageName>सहजपूर</VillageName>
     </VillageCode>
     <VillageCode Code="394">
       <VillageName>मोटेवाडी</VillageName>
@@ -817,12 +820,6 @@
     </VillageCode>
     <VillageCode Code="99">
       <VillageName>कवटे यमाई</VillageName>
-    </VillageCode>
-    <VillageCode Code="100">
-      <VillageName>निमगाव दुडे</VillageName>
-    </VillageCode>
-    <VillageCode Code="103">
-      <VillageName>कवठे यमाई</VillageName>
     </VillageCode>
     <VillageCode Code="119">
       <VillageName>पिंपळनेर</VillageName>
@@ -1191,6 +1188,9 @@
     <VillageCode Code="67">
       <VillageName>रामनगर</VillageName>
     </VillageCode>
+    <VillageCode Code="100">
+      <VillageName>निमगाव दुडे</VillageName>
+    </VillageCode>
     <VillageCode Code="135">
       <VillageName>काळुस (खेड)</VillageName>
     </VillageCode>
@@ -1250,9 +1250,6 @@
     </VillageCode>
     <VillageCode Code="322">
       <VillageName>चिखली</VillageName>
-    </VillageCode>
-    <VillageCode Code="335">
-      <VillageName>च-होली खुर्द</VillageName>
     </VillageCode>
     <VillageCode Code="337">
       <VillageName>पाईट</VillageName>
@@ -1566,6 +1563,9 @@
     </VillageCode>
     <VillageCode Code="216">
       <VillageName>राहु</VillageName>
+    </VillageCode>
+    <VillageCode Code="393">
+      <VillageName>सहजपूर</VillageName>
     </VillageCode>
     <VillageCode Code="461">
       <VillageName>पिपळगांव</VillageName>
