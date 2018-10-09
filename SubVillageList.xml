@@ -47,7 +47,7 @@
     <VillageCode Code="29">
       <VillageName>सणसवाडी</VillageName>
       <SubVillageCode Code="10">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>सणसवाडी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="39">
@@ -86,7 +86,7 @@
     <VillageCode Code="38">
       <VillageName>मरकळ</VillageName>
       <SubVillageCode Code="18">
-        <SubVillageName>गोलेगाव</SubVillageName>
+        <SubVillageName>मरकळ</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="37">
@@ -107,7 +107,7 @@
     <VillageCode Code="33">
       <VillageName>कोलवडी</VillageName>
       <SubVillageCode Code="22">
-        <SubVillageName>केसनंद</SubVillageName>
+        <SubVillageName>कोलवडी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -146,7 +146,7 @@
     <VillageCode Code="31">
       <VillageName>वढु बुद्रुक</VillageName>
       <SubVillageCode Code="33">
-        <SubVillageName>कोरेगाव भिमा</SubVillageName>
+        <SubVillageName>वढु बुद्रुक</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="27">
@@ -236,7 +236,7 @@
     <VillageCode Code="104">
       <VillageName>काठापूर खुर्द</VillageName>
       <SubVillageCode Code="56">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>काठापूर खुर्द</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -305,7 +305,7 @@
     <VillageCode Code="18">
       <VillageName>तळेगाव ढमढेरे</VillageName>
       <SubVillageCode Code="68">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>तळेगांव ढमढेरे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -314,7 +314,7 @@
     <VillageCode Code="113">
       <VillageName>गोलेगाव</VillageName>
       <SubVillageCode Code="70">
-        <SubVillageName>गोलेगाव</SubVillageName>
+        <SubVillageName>गोलेगाव(शिरूर)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -332,7 +332,7 @@
     <VillageCode Code="44">
       <VillageName>शिरसगावकाटा</VillageName>
       <SubVillageCode Code="72">
-        <SubVillageName>न्हावरा</SubVillageName>
+        <SubVillageName>शिरसगाव काटा</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="115">
@@ -440,7 +440,7 @@
     <VillageCode Code="136">
       <VillageName>चांडोह</VillageName>
       <SubVillageCode Code="92">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>चांडोह</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -473,7 +473,7 @@
     <VillageCode Code="20">
       <VillageName>शिवतक्रार म्हाळुंगी</VillageName>
       <SubVillageCode Code="98">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>शिवतक्रार म्हाळुंगी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -482,7 +482,7 @@
     <VillageCode Code="62">
       <VillageName>सिद्देगव्हाण</VillageName>
       <SubVillageCode Code="99">
-        <SubVillageName>सिद्देगव्हाण</SubVillageName>
+        <SubVillageName>सिध्देगव्हान</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -500,7 +500,7 @@
     <VillageCode Code="5">
       <VillageName>भांबार्डॆ</VillageName>
       <SubVillageCode Code="101">
-        <SubVillageName>कंरजावणे मार्ग्</SubVillageName>
+        <SubVillageName>भांबार्डे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -509,7 +509,7 @@
     <VillageCode Code="126">
       <VillageName>सरदवाडी</VillageName>
       <SubVillageCode Code="102">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>सरदवाडी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -518,7 +518,7 @@
     <VillageCode Code="141">
       <VillageName>शिरूर ग्रामिण</VillageName>
       <SubVillageCode Code="103">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>शिरूर ग्रामिण</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -614,7 +614,7 @@
     <VillageCode Code="144">
       <VillageName>लोणी कंद</VillageName>
       <SubVillageCode Code="118">
-        <SubVillageName>कोरेगाव भिमा</SubVillageName>
+        <SubVillageName>लोणी कंद</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -632,7 +632,7 @@
     <VillageCode Code="146">
       <VillageName>बाभुळसर खुर्द्</VillageName>
       <SubVillageCode Code="120">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>बाभुळसर खुर्द्</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -641,7 +641,7 @@
     <VillageCode Code="88">
       <VillageName>अरणगाव</VillageName>
       <SubVillageCode Code="121">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>अरणगाव</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -668,13 +668,13 @@
     <VillageCode Code="148">
       <VillageName>शेलगाव</VillageName>
       <SubVillageCode Code="125">
-        <SubVillageName>शिक्रापुर</SubVillageName>
+        <SubVillageName>शेलगांव</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="147">
       <VillageName>वडगाव घेनंद</VillageName>
       <SubVillageCode Code="126">
-        <SubVillageName>पेरने</SubVillageName>
+        <SubVillageName>वडगाव घेनंद</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -719,7 +719,7 @@
     <VillageCode Code="166">
       <VillageName>गुनाट</VillageName>
       <SubVillageCode Code="136">
-        <SubVillageName>गुनाट (कोळपे वाडी)</SubVillageName>
+        <SubVillageName>गुनाट</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -887,7 +887,7 @@
     <VillageCode Code="16">
       <VillageName>पारोडी</VillageName>
       <SubVillageCode Code="170">
-        <SubVillageName>तळेगांव  ढमढेरे</SubVillageName>
+        <SubVillageName>निमगाव म्हाळुंगी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -992,7 +992,7 @@
     <VillageCode Code="62">
       <VillageName>सिद्देगव्हाण</VillageName>
       <SubVillageCode Code="216">
-        <SubVillageName>सिध्देगव्हान</SubVillageName>
+        <SubVillageName>बहुळ</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1001,7 +1001,7 @@
     <VillageCode Code="16">
       <VillageName>पारोडी</VillageName>
       <SubVillageCode Code="224">
-        <SubVillageName>पारोडी</SubVillageName>
+        <SubVillageName>तळेगांव ढमढेरे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1028,7 +1028,7 @@
     <VillageCode Code="48">
       <VillageName>करंदी</VillageName>
       <SubVillageCode Code="234">
-        <SubVillageName>करंदी गांव</SubVillageName>
+        <SubVillageName>करंदी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="60">
@@ -1088,7 +1088,7 @@
     <VillageCode Code="19">
       <VillageName>निमगाव म्हाळुंगी.</VillageName>
       <SubVillageCode Code="280">
-        <SubVillageName>निमगाव म्हाळुंगी</SubVillageName>
+        <SubVillageName>तळेगांव ढमढेरे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1163,7 +1163,7 @@
     <VillageCode Code="45">
       <VillageName>आलेगावपागा</VillageName>
       <SubVillageCode Code="316">
-        <SubVillageName>आलेगावपागा</SubVillageName>
+        <SubVillageName>आलेगाव पागा</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1361,7 +1361,7 @@
     <VillageCode Code="10">
       <VillageName>शिक्रापुर</VillageName>
       <SubVillageCode Code="402">
-        <SubVillageName>देवखल मळा</SubVillageName>
+        <SubVillageName>शिक्रापुर</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="188">
@@ -1385,7 +1385,7 @@
     <VillageCode Code="480">
       <VillageName>वाडेगाव</VillageName>
       <SubVillageCode Code="415">
-        <SubVillageName>भोर वस्ती</SubVillageName>
+        <SubVillageName>वाडेगाव</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1442,7 +1442,7 @@
     <VillageCode Code="167">
       <VillageName>कुरुळी</VillageName>
       <SubVillageCode Code="430">
-        <SubVillageName>कुरुळी</SubVillageName>
+        <SubVillageName>कुरुळी(न्हावरा)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1523,7 +1523,7 @@
     <VillageCode Code="292">
       <VillageName>चाकण</VillageName>
       <SubVillageCode Code="453">
-        <SubVillageName>वाकी</SubVillageName>
+        <SubVillageName>चाकण</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1574,7 +1574,7 @@
     <VillageCode Code="19">
       <VillageName>निमगाव म्हाळुंगी.</VillageName>
       <SubVillageCode Code="476">
-        <SubVillageName>तळेगांव मार्ग</SubVillageName>
+        <SubVillageName>निमगाव म्हाळुंगी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1766,7 +1766,7 @@
     <VillageCode Code="182">
       <VillageName>भावडी</VillageName>
       <SubVillageCode Code="506">
-        <SubVillageName />
+        <SubVillageName>भावडी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
