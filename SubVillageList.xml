@@ -1761,4 +1761,130 @@
       </SubVillageCode>
     </VillageCode>
   </GatCode>
+  <GatCode Code="3">
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode Code="182">
+      <VillageName>भावडी</VillageName>
+      <SubVillageCode Code="506">
+        <SubVillageName />
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="9">
+    <GatName>पारनेर</GatName>
+    <VillageCode Code="387">
+      <VillageName>वाडेगव्हान</VillageName>
+      <SubVillageCode Code="507">
+        <SubVillageName>वाडेगव्हान</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="3">
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode Code="236">
+      <VillageName>उरुळी कांचन</VillageName>
+      <SubVillageCode Code="513">
+        <SubVillageName>उरुळी कांचन</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="5">
+    <GatName>नाव्हरा</GatName>
+    <VillageCode Code="230">
+      <VillageName>चव्हाणवाडी (करडे)</VillageName>
+      <SubVillageCode Code="521">
+        <SubVillageName>चव्हाणवाडी (करडे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="8">
+    <GatName>शेल पिंपळगाव</GatName>
+    <VillageCode Code="337">
+      <VillageName>पाईट</VillageName>
+      <SubVillageCode Code="526">
+        <SubVillageName>पाईट</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="5">
+    <GatName>नाव्हरा</GatName>
+    <VillageCode Code="243">
+      <VillageName>इनामगांव</VillageName>
+      <SubVillageCode Code="528">
+        <SubVillageName>मांडवगण फराटा</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="4">
+    <GatName>जातेगाव बुद्रुक</GatName>
+    <VillageCode Code="208">
+      <VillageName>पिंपरी दुमाला</VillageName>
+      <SubVillageCode Code="531">
+        <SubVillageName>रांजणगाव गणपती</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="5">
+    <GatName>नाव्हरा</GatName>
+    <VillageCode Code="243">
+      <VillageName>इनामगांव</VillageName>
+      <SubVillageCode Code="533">
+        <SubVillageName>शिरसगांव काटा</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="132">
+      <VillageName>पिंपळसुटी</VillageName>
+      <SubVillageCode Code="534">
+        <SubVillageName>शिरसगांव काटा</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="535">
+        <SubVillageName>मांडवगण फराटा</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="397">
+      <VillageName>कोरेगाव भिवर</VillageName>
+      <SubVillageCode Code="536">
+        <SubVillageName>कोरेगाव भिवर</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="228">
+      <VillageName>मलठण</VillageName>
+      <SubVillageCode Code="537">
+        <SubVillageName>मलठण (ट्रॅक्टर टायर)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="127">
+      <VillageName>आण्णापुर</VillageName>
+      <SubVillageCode Code="539">
+        <SubVillageName>अण्णापुर</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="11">
+    <GatName>कोलवडी</GatName>
+    <VillageCode Code="25">
+      <VillageName>आष्टापुर</VillageName>
+      <SubVillageCode Code="540">
+        <SubVillageName>अष्टापुर</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="4">
+    <GatName>जातेगाव बुद्रुक</GatName>
+    <VillageCode Code="19">
+      <VillageName>निमगाव म्हाळुंगी.</VillageName>
+      <SubVillageCode Code="541">
+        <SubVillageName>पारोडी फ़ाटा</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="3">
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode Code="335">
+      <VillageName>च-होली खुर्द</VillageName>
+      <SubVillageCode Code="542">
+        <SubVillageName>च-होली खुर्द</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
 </SubVillageList>
